@@ -5,8 +5,8 @@ Un programme rudimentaire de gestion de tâches en python.
 ## Membres de l'équipe
 - `itnitiateur`: Karuran Gajarooban 
 - `contributeur-1`: Anis Amaouch 
-- `contributeur-2`: Tom Guittet
-- `contributeur-3`: Nathan bouché
+- `contributeur-2`: Nathan bouché 
+- `contributeur-3`: Tom Guittet
 
 ## Fork urls
 - `contributeur-1`: [xin206-taskmanager-anis-amaouch]()
