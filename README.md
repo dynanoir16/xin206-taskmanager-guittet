@@ -9,6 +9,7 @@ Un programme rudimentaire de gestion de tâches en python.
 - `contributeur-3`: Nathan bouché
 
 ## Fork urls
-- `contributeur-1`: [xin206-taskmanager-anis-amaouch](url-1)
-- `contributeur-2`: [xin206-taskmanager-tom-guittet](url-2)
+- `contributeur-1`: [xin206-taskmanager-anis-amaouch]()
+- `contributeur-2`: [xin206-taskmanager-tom-guittet](https://github.com/II-PTM-II/xin206-taskmanager-bouche
+)
 - `contributeur-3`: [xin206-taskmanager-nathan-bouché](url-3)
