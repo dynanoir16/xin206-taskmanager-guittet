@@ -13,4 +13,4 @@ Un programme rudimentaire de gestion de tâches en python.
 )
 - `contributeur-2`: [xin206-taskmanager-tom-guittet](https://github.com/II-PTM-II/xin206-taskmanager-bouche
 )
-- `contributeur-3`: [xin206-taskmanager-nathan-bouché]([url-3](https://github.com/dynanoir16/xin206-taskmanager-guittet)
+- `contributeur-3`: [xin206-taskmanager-nathan-bouché](https://github.com/dynanoir16/xin206-taskmanager-guittet)
