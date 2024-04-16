@@ -11,6 +11,6 @@ Un programme rudimentaire de gestion de tâches en python.
 ## Fork urls
 - `contributeur-1`: [xin206-taskmanager-anis-amaouch](https://github.com/Scriptcss/xin206-taskmanager-amaouch-anis.git
 )
-- `contributeur-2`: [xin206-taskmanager-tom-guittet](https://github.com/II-PTM-II/xin206-taskmanager-bouche
+- `contributeur-2`: [xin206-taskmanager-tom-guittet](https://github.com/dynanoir16/xin206-taskmanager-guittet
 )
-- `contributeur-3`: [xin206-taskmanager-nathan-bouché](https://github.com/dynanoir16/xin206-taskmanager-guittet)
+- `contributeur-3`: [xin206-taskmanager-nathan-bouché](https://github.com/II-PTM-II/xin206-taskmanager-bouche )
